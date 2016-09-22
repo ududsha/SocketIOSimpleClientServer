@@ -5,10 +5,10 @@ Simple server and client example to demonstrate and and get hands on experience 
 Open two terminals for both Server and Client.
 - cd Server and cd Client
 
-###Install dependencies
+###Install dependencies for both 
 - npm install
 
-###Run application
+###Run both 
 - node ./
 
 ###License
