@@ -11,5 +11,7 @@ Open two terminals for both Server and Client.
 ###Run both 
 - node ./
 
+![alt tag](https://github.com/ududsha/SocketIOSimpleClientServer/blob/master/ScreenShot.PNG)
+
 ###License
 MIT
